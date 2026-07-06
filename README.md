@@ -78,28 +78,6 @@ Business Insights
 
 ---
 
-#  Repository Structure
-
-```text
-PowerBI-Stock-Market-Analytics
-│
-├── 📁 Python
-│   └── Stock_Market_Data_Collection.py
-│
-├── 📁 Dataset
-│   └── stock_market_data.csv
-│
-├── 📁 Dashboard Screenshots
-│   ├── Home.png
-│   ├── Price Analysis.png
-│   ├── Trading Volume Analysis.png
-│   ├── Market Volatility Analysis.png
-│   ├── Company Comparison.png
-│   └── Key Insights.png
-│
-├── 📄 README.md
-└── 📥 PBIX Download (Google Drive)
-```
 # Download Power BI Dashboard
 
 Google Drive:
