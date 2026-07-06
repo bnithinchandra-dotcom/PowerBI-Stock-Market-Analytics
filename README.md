@@ -1,34 +1,131 @@
-# 📈 Stock Market Analytics Dashboard
+#  Stock Market Analytics Dashboard
 
-An interactive Power BI dashboard for analyzing the historical performance of the Top 10 companies (2020–2026).
+An end-to-end **Data Analytics** project that analyzes the historical performance of the **Top 10 publicly traded companies (2020–2026)** using **Python** and **Microsoft Power BI**.
 
-## 📊 Dashboard Pages
+This project demonstrates the complete analytics workflow—from collecting historical stock market data with Python to transforming, modeling, and visualizing it through an interactive Power BI dashboard.
 
-- 🏠 Home
-- 📈 Price Analysis
-- 📊 Trading Volume Analysis
-- 📉 Market Volatility Analysis
-- ⚖️ Company Comparison
-- 💡 Key Insights
+---
 
-## ✨ Features
+##  Project Workflow
 
-- Interactive slicers
-- Dynamic KPI cards
-- Company-to-company comparison
-- Custom navigation using bookmarks
-- Modern dashboard UI
-- Responsive page navigation
+```text
+Python (yfinance)
+        │
+        ▼
+Historical Stock Market Data Collection
+        │
+        ▼
+Data Cleaning & Preparation
+        │
+        ▼
+Power Query
+        │
+        ▼
+Data Modeling
+        │
+        ▼
+DAX Measures
+        │
+        ▼
+Interactive Power BI Dashboard
+        │
+        ▼
+Business Insights
+```
 
-## 🛠️ Tools Used
+---
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Data Visualization
+# Dashboard Pages
 
-## 📥 Download PBIX
+ Home Dashboard
+
+ Price Analysis
+
+ Trading Volume Analysis
+
+ Market Volatility Analysis
+
+ Company Performance Comparison
+
+ Key Insights & Findings
+
+---
+
+#  Key Features
+
+- Interactive Navigation
+- Dynamic KPI Cards
+- Historical Stock Price Analysis
+- Trading Volume Analysis
+- Market Volatility Analysis
+- Company vs Company Comparison
+- Interactive Filters & Slicers
+- Custom Dashboard UI
+- Bookmark-Based Navigation
+- Business Insights & Recommendations
+
+---
+
+# 🛠️ Technologies Used
+
+-  Python
+-  yfinance
+-  Microsoft Power BI
+-  Power Query
+-  DAX
+-  Data Modeling
+-  Data Visualization
+
+---
+
+#  Repository Structure
+
+```text
+PowerBI-Stock-Market-Analytics
+│
+├── 📁 Python
+│   └── Stock_Market_Data_Collection.py
+│
+├── 📁 Dataset
+│   └── stock_market_data.csv
+│
+├── 📁 Dashboard Screenshots
+│   ├── Home.png
+│   ├── Price Analysis.png
+│   ├── Trading Volume Analysis.png
+│   ├── Market Volatility Analysis.png
+│   ├── Company Comparison.png
+│   └── Key Insights.png
+│
+├── 📄 README.md
+└── 📥 PBIX Download (Google Drive)
+```
+# Download Power BI Dashboard
 
 Google Drive:
+
 https://drive.google.com/file/d/1xC7wgcUCciBONAF1jv2xzutsoMLVCSvD/view?usp=sharing
+
+---
+
+# Dashboard Demo
+
+Watch the complete dashboard walkthrough in the demo video included in this repository or on my LinkedIn profile.
+
+---
+
+# Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Financial market data collection using Python (`yfinance`)
+- Data transformation with Power Query
+- Data modeling and relationship management
+- Creating DAX measures and KPIs
+- Designing interactive dashboards in Power BI
+- Building user-friendly navigation with bookmarks
+- Presenting analytical insights through effective data visualization
+
+---
+
+#LINKEDIN : https://www.linkedin.com/in/nithinchandra07?utm_source=share_via&utm_content=profile&utm_medium=member_android
