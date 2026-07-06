@@ -82,7 +82,7 @@ Business Insights
 
 Google Drive:
 
-https://drive.google.com/file/d/1xC7wgcUCciBONAF1jv2xzutsoMLVCSvD/view?usp=sharing
+https://drive.google.com/drive/folders/1KoN5mSpJ0SRMbEnG5kNLh0JnF_UpDa71?usp=drive_link
 
 ---
 
